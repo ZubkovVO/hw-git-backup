@@ -44,3 +44,5 @@ Working wit git GUI
 
 Working with git revert
 ===================================
+
+All for the sake of git
