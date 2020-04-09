@@ -41,3 +41,6 @@ Forever trusting who we are
 No nothing else matters
 
 Working wit git GUI
+
+Working with git revert
+===================================
