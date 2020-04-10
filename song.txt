@@ -42,3 +42,4 @@ No nothing else matters
 
 Working wit git GUI
 
+Has it always been so hard to understand git?
