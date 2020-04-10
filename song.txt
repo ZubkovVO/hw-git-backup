@@ -44,4 +44,5 @@ Working wit git GUI
 
 Resolution of conflicts have always been in the human nature
 
+Has it always been so hard to understand git?
 
