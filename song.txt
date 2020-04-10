@@ -42,3 +42,6 @@ No nothing else matters
 
 Working wit git GUI
 
+Resolution of conflicts have always been in the human nature
+
+
